@@ -1,0 +1,29 @@
+{
+  "name": "luckytool",
+  "version": "0.0.1",
+  "description": "a mini lottery tool",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenzengjing/LuckyTool.git"
+  },
+  "keywords": [
+    "lottery"
+  ],
+  "author": "shenzengjing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shenzengjing/LuckyTool/issues"
+  },
+  "homepage": "https://github.com/shenzengjing/LuckyTool#readme",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "tslint": "^5.11.0"
+  }
+}
